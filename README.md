@@ -2,7 +2,7 @@
 
 #### Inspired by Dr. Follis
 #### Adapted from Dr. Follis
-**Original DataSource: R-package socviz[Link](https://cran.r-project.org/web/packages/socviz/socviz.pdf) 
+* Original DataSource: R-package socviz[Link](https://cran.r-project.org/web/packages/socviz/socviz.pdf) 
 
 ## Description
 
